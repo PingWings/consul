@@ -6,7 +6,7 @@
 
 ![CONSUL logo](https://raw.githubusercontent.com/consul/consul/master/public/consul_logo.png)
 
-# CONSUL
+# CONSUL for PingWings
 
 Citizen Participation and Open Government Application
 
